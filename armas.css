@@ -1,0 +1,54 @@
+body{
+    background-color: #202434;
+    margin: 0px;
+}
+main{
+    margin: 20px;
+}
+header{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #201c24;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    display: block;
+    border: 1px solid #201c24;
+}
+.navbar a:hover{
+    border-color: white;
+}
+.navbar li{
+    float: left;
+}
+h1{
+    color: white;
+}
+footer h5{
+    color: white;
+    text-align: center;
+}
+main ol{
+    color: white;
+    display: block;
+}
+.icons{
+    position: relative;
+    background-color: #201c24;
+}
+.weapons{
+    position: absolute;
+    top: 0.01px;
+}
+.weapons li{
+    display: block;
+    list-style: none;
+    margin: 29.5px 15px;
+}

@@ -1,0 +1,40 @@
+body{
+    background-color: #202434;
+    margin: 0px;
+}
+main{
+    margin: 20px;
+}
+header{
+    text-align: center;
+}
+h1, h2{
+    color: white;
+}
+footer h5{
+    color: white;
+    text-align: center;
+}
+p{
+    color:rgb(158, 158, 158);
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #201c24;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    display: block;
+    border: 1px solid #201c24;
+}
+.navbar a:hover{
+    border-color: white;
+}
+.navbar li{
+    float: left;
+}
